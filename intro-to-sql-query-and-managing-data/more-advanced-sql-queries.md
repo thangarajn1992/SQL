@@ -177,3 +177,7 @@ id 	type 	minutes 	calories 	heart_rate
 7 	hiking 	60 	80 	85
 ```
 
+### Restricting Grouped Results with HAVING
+
+
+
